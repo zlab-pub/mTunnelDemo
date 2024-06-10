@@ -10,4 +10,4 @@ This project consists of 3 parts:
 
 2. ***mTunnel* Video Decoder:** This project captures the display buffer of a targeted window and decodes the 2D bar code(encoded by *mTunnel* Video Encoder) within it. It also recomposites and displays the decoded video streams over the targeted window.
 
-3. **Reed-Solomon:** This part is forked from [Reed-Solomon]([GitHub - mersinvald/Reed-Solomon: Reed Solomon BCH encoder and decoder](https://github.com/mersinvald/Reed-Solomon)). It is used for RS encoding and decoding in the above two projects.
+3. **Reed-Solomon:** This part is forked from [GitHub - mersinvald/Reed-Solomon: Reed Solomon BCH encoder and decoder](https://github.com/mersinvald/Reed-Solomon). It is used for RS encoding and decoding in the above two projects.
