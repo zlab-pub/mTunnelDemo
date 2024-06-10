@@ -1,0 +1,3 @@
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/examples/cmake-build-debug/CMakeFiles/example1.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir

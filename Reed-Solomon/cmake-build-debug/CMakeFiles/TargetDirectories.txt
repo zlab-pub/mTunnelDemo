@@ -1,0 +1,8 @@
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/examples/CMakeFiles/edit_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/examples/CMakeFiles/example1.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/examples/CMakeFiles/rebuild_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/tests/CMakeFiles/RStest.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+D:/Courses/STU_courses/lab/screen_capture_and_encrypt/Reed-Solomon-master/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
