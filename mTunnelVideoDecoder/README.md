@@ -14,7 +14,7 @@ Download the project
 
 1. Build *DecoderDemo* (Release configuration)
 
-2. Go to "DecoderDemo"->"Properties" -> "Debugging" and fill in the "Command-line arguments" with your targeted window, for example, "Zoom Meeting".
+2. Go to "DecoderDemo"->"Properties" -> "Debugging" and fill in the "Command-line arguments" with your targeted window, for example, Zoom Meeting.
 
 3. Run *DecoderDemo*
 
