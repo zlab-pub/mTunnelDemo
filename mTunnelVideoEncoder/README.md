@@ -34,7 +34,7 @@ Download the project
 2. Build *VirtualCameraMediaSource* (Release configuration)
 3. Build *VirtualCamera_MSI*
 4. Install *VirtualCamera_MSI*
-5. Run *VirtualCamera_Installer* to install a **HWMediaSource** for a physical device.
+5. Run *VirtualCamera_Installer* as adminstrator to install a **HWMediaSource** for a physical device.
 
 ## VirtualCamera_MSI
 
