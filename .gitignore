@@ -201,6 +201,11 @@ PublishScripts
 # NuGet Symbol Packages
 .snupkg
 
+packages/Microsoft.VCRTForwarders.140.1.0.7
+packages/Microsoft.Windows.CppWinRT.2.0.210629.4
+packages/Microsoft.Windows.ImplementationLibrary.1.0.200519.2
+packages/Microsoft.Windows.ImplementationLibrary.1.0.200902.2
+
 # except build, which is used as an MSBuild target.
 ![Pp]ackagesbuild
 # Uncomment if necessary however generally it will be regenerated when needed
