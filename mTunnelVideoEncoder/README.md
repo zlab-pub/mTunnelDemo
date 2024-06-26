@@ -78,4 +78,4 @@ In the case where  the virtualCamera is used by application or after VirtualCame
 <b> 4. Can 2 virtual cameras concurrently wrap the same existing camera on the system? </b><br/>
 no, only 1 virtual camera at a time can wrap an existing camera. You cannot open an existing camera in sharing mode from within your virtual camera.
 
-For more information, you may visit the [link]([microsoft/Windows-Camera: Tools and samples for camera related APIs on Windows (github.com)](https://github.com/microsoft/Windows-Camera)).
+For more information, you may visit [microsoft/Windows-Camera: Tools and samples for camera related APIs on Windows (github.com)](https://github.com/microsoft/Windows-Camera).
