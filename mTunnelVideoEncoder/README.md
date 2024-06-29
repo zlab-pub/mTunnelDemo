@@ -6,7 +6,7 @@
 - Windows SDK minimum version: [10.0.22000.0](https://developer.microsoft.com/en-us/windows/downloads/windows-sdk/)
 - Visual studio MSI project extension [link](https://marketplace.visualstudio.com/items?itemName=visualstudioclient.MicrosoftVisualStudio2017InstallerProjects)
 - Latest VCRuntime redistributable installed [link](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist)
-- OpenCV 4.8.0+
+- OpenCV 4.8.0+ (do not install on user path)
 
 This project create a virtual camera on Windows userspace([see API documentation](https://docs.microsoft.com/en-us/windows/win32/api/mfvirtualcamera/)) . The virtual camera wraps a physical camera and modulate the incoming video streams into 2D bar codes.
 
