@@ -2,7 +2,7 @@
 
 ### Brief
 
-This project is a demo for paper **Enforcing End-to-end Security for Remote Conference Applications**. Please refer to [link]() for more information.
+This project is a demo for paper **Enforcing End-to-end Security for Remote Conference Applications**. Please refer to [link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a202/1WPcYvAYYaA) for more information.
 
 This project consists of 3 parts:
 
