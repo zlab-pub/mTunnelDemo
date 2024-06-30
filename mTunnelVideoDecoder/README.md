@@ -16,6 +16,8 @@ Download the project
 
 2. Go to "DecoderDemo"->"Properties" -> "Debugging" and fill in the "Command-line arguments" with your targeted window, for example, Zoom Meeting.
 
-3. Run *DecoderDemo*
+3. This project utilizes *GdiGrab* to capture target windows, so hardware video acceleration should be disabled. You can also capture the whole desktop to avoid the issues. Video flip should also be disabled.
+
+4. Run *DecoderDemo*
 
 
